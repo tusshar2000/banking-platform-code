@@ -1,5 +1,5 @@
 # banking-platform-code
-this project is completely made in python and run in jupyter notebook if it doesn't as .py file by changing the extension 
+This project is completely made in python and run in jupyter notebook if it doesn't as .py file by changing the extension 
 or by simply copy pasting the code in a single cell of jupyter notebook.
 I made use of "openpyxl" library to make changes in excel sheet(this is the sheet where the data is present).
 and "smtplib" library for sending emails automatically.
