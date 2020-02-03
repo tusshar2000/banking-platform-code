@@ -43,4 +43,9 @@ Case 4-> When you input wrong entries for credit or debit three times.
 Case 5-> When you run correctly.
 
 Screenshots for each case:
+![Case 1](/screenshots/case1.png)
+![Case 2](/screenshots/case2.png)
+![Case 3](/screenshots/case3.png)
+![Case 4](/screenshots/case4.png)
+![Case 5](/screenshots/case5.png)
 
