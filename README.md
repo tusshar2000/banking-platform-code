@@ -58,9 +58,9 @@ Screenshots for each case:
 5. Case 5:
 ![Case 5](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case5.PNG)
 
-1. Excel sheet at the starting.
+6. Excel sheet at the starting.
 ![Before](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/before.PNG)
 
-2. Excel sheet at the ending.
+7. Excel sheet at the ending.
 ![after](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/after.PNG)
 
