@@ -44,7 +44,7 @@ Case 5-> When you run correctly.
 
 Screenshots for each case:
 1. Case 1:
-(https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case1.PNG)
+![Case 1](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case1.PNG)
 
 2. Case 2:
 ![Case 2](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case2.PNG)
@@ -58,7 +58,9 @@ Screenshots for each case:
 5. Case 5:
 ![Case 5](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case5.PNG)
 
-Excel sheet at the starting.
+1. Excel sheet at the starting.
+![Before](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/before.PNG)
 
-Excel sheet at the ending.
+2. Excel sheet at the ending.
+![after](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/after.PNG)
 
