@@ -43,19 +43,19 @@ Case 4-> When you input wrong entries for credit or debit three times.
 Case 5-> When you run correctly.
 
 Screenshots for each case:
-Case 1:
+1. Case 1:
 (https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case1.PNG)
 
-Case 2:
+2. Case 2:
 ![Case 2](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case2.PNG)
 
-Case 3:
+3. Case 3:
 ![Case 3](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case3.PNG)
 
-Case 4:
+4. Case 4:
 ![Case 4](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case4.PNG)
 
-Case 5:
+5. Case 5:
 ![Case 5](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case5.PNG)
 
 Excel sheet at the starting.
