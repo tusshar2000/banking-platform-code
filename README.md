@@ -44,7 +44,7 @@ Case 5-> When you run correctly.
 
 Screenshots for each case:
 Case 1:
-![Case 1](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case1.PNG)
+(https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case1.PNG)
 
 Case 2:
 ![Case 2](https://github.com/tusshar2000/banking-platform-code/blob/master/screenshots/case2.PNG)
